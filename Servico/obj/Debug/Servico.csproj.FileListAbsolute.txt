@@ -1,0 +1,14 @@
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\bin\Debug\Servico.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\bin\Debug\Servico.pdb
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\bin\Debug\Modelo.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\bin\Debug\Persistencia.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\bin\Debug\EntityFramework.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\bin\Debug\Modelo.pdb
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\bin\Debug\Persistencia.pdb
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\bin\Debug\Persistencia.dll.config
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\bin\Debug\EntityFramework.xml
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\obj\Debug\Servico.csproj.CopyComplete
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\obj\Debug\Servico.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Servico\obj\Debug\Servico.pdb

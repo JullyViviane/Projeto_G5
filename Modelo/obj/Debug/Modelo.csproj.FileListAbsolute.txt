@@ -1,0 +1,6 @@
+C:\Users\kram3rr\source\repos\ProjetoG5\Modelo\bin\Debug\Modelo.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Modelo\bin\Debug\Modelo.pdb
+C:\Users\kram3rr\source\repos\ProjetoG5\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\kram3rr\source\repos\ProjetoG5\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\kram3rr\source\repos\ProjetoG5\Modelo\obj\Debug\Modelo.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,16 @@
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\bin\Debug\Modelo.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\obj\Debug\Persistencia.Migrations.InitialCreate.resources
+C:\Users\kram3rr\source\repos\ProjetoG5\Persistencia\obj\Debug\Persistencia.csproj.GenerateResource.cache
